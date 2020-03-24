@@ -9,6 +9,6 @@ The datasets are too large to be uploaded on GitHub.
   
   
 Once you dowloaded the file, please set the working directory to the file locations and update the following lines accordingly:
-  A) calendar2020 <- read.csv("datasets/tokyo_calendar.csv", stringsAsFactors = FALSE)
-  B) calendar2019 <- read.csv("datasets/tokyo_calendar2019.csv", stringsAsFactors = FALSE)
-  C) paris_calendar <- read.csv('datasets/paris_calendar.csv', stringsAsFactors = FALSE)
+  1) calendar2020 <- read.csv("datasets/tokyo_calendar.csv", stringsAsFactors = FALSE)
+  2) calendar2019 <- read.csv("datasets/tokyo_calendar2019.csv", stringsAsFactors = FALSE)
+  3) paris_calendar <- read.csv('datasets/paris_calendar.csv', stringsAsFactors = FALSE)
