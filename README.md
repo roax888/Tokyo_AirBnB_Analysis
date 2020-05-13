@@ -1,6 +1,6 @@
 # Tokyo_AirBnB_Analysis
 
-This is a line form R Studio
+This is a line from R Studio
 
 Looking for patterns of human behavior in Tokyo's AirBnB Data
 
