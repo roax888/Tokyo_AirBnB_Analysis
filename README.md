@@ -1,4 +1,7 @@
 # Tokyo_AirBnB_Analysis
+
+This is a line form R Studio
+
 Looking for patterns of human behavior in Tokyo's AirBnB Data
 
 This R analysis uses 3 datasets from Inside AirBnB: Get the Data (http://insideairbnb.com/get-the-data.html)
