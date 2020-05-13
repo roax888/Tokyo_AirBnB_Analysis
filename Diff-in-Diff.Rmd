@@ -2,7 +2,7 @@
 title: "Difference-In-Difference on AirBnB Listing Price - 2020 Tokyo Olympics Spike"
 author: "Roxanne Chui"
 date: "02/03/2020"
-output: pdf_document
+output: html_document
 fontsize: 12pt
 abstract: "The paper looked at the change in the average AirBnB listing price during the Summer Olympics in Tokyo. There is an overall significant difference in the average listing price between July to August in 2019 against  2020 which the average price spiked up by YEN 32096 during the Olympic season. 2020 listing price in Tokyo was also measured against 2020 Paris, where the 2024 Olympics would be held in the City of Paris. Although the paper is for practicing statistical analysis on Difference-inDifference, the analysis is an insight for summer travellers and Olympics fans in terms of selecting accommodation and adjusting travel budget during the season."
 ---
